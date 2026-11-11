@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/
+- Leaflet Map https: (https://macapelle22.github.io/Taller-storymap_AAHD_-Sitio-de-prueba/#1)
 - Google Sheets template (https://docs.google.com/spreadsheets/d/1mSueqRvDPolbSPkcCzXbdwV1G_NQkcilgEtal5jU0kY/edit?gid=0#gid=0)
 
 ## Create Your Own
